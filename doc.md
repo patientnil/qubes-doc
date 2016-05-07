@@ -64,7 +64,7 @@ Managing Operating Systems within Qubes
  * [Templates: Ubuntu](/doc/templates/ubuntu/)
  * [Templates: Whonix](/doc/whonix/)
  * [Installing and Using Windows-based AppVMs (Qubes R2 Beta 3 and later)](/doc/windows-appvms/)
- * [Creating and Using HVM and Windows Domains (Qubes R2+)](/doc/hvm-create/)
+ * [Creating and Using HVM and Windows Domains (Qubes R2+)](/doc/hvm/)
  * [Advanced options and troubleshooting of Qubes Tools for Windows (R3)](/doc/windows-tools-3/)
  * [Advanced options and troubleshooting of Qubes Tools for Windows (R2)](/doc/windows-tools-2/)
  * [Uninstalling Qubes Tools for Windows 2.x](/doc/uninstalling-windows-tools-2/)
@@ -158,6 +158,12 @@ Reference Pages
  * [Glossary of Qubes Terminology](/doc/glossary/)
  * [Qubes Service Framework](/doc/qubes-service/)
  * [Command Execution in VMs (and Qubes RPC)](/doc/qrexec/)
+
+
+Presentation Slides
+-------------------
+ * [[PDF] LinuxCon 2014 -- Qubes OS R2 Tutorial](/attachment/wiki/slides/LinuxCon_2014_Qubes_Tutorial.pdf)
+ * [[PDF] LinuxCon 2014 -- Qubes OS Keynote](/attachment/wiki/slides/LinuxCon_2014_Qubes_Keynote.pdf)
 
 
 For Developers
